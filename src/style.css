@@ -1,1 +1,8 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+h1 {
+  font-size: 100px;
+  color: red;
+}
+p {
+  font-size: 70px;
+}
